@@ -1,0 +1,18 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "Example node-express app with Dockerfile.",
+  "main": "server.js",
+  "repository": {
+    "url": "git@github.com:wiztools-books/microservices.git",
+    "type": "git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Subhash Chandran",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
